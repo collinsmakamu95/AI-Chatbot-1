@@ -1,0 +1,64 @@
+{"human": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "Sasa","Habari yako","How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
+         "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["Have a lovely day", "See you later", "Goodbye", "I am Leaving", "Have a Good day"],
+         "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!","Have a lovely day"],
+         "context_set": ""
+        },
+        {"tag": "age",
+         "patterns": ["how old", "how old is miles", "what is your age", "how old are you", "age?"],
+         "responses": ["I am 18 years old!", "18 years young!","Stop being nosey! Hehe","None of your business", "Ni nini wewe"],
+         "context_set": ""
+        },
+        {"tag": "name",
+         "patterns": ["what is your name", "what should I call you", "whats your name?"],
+         "responses": ["You can call me Miles.", "I'm Miles!", "I'm Miles aka Web hero."],
+         "context_set": ""
+        },
+        {"tag": "shop",
+         "patterns": ["Id like to buy something", "I want to shop","whats on the catalogue", "what do you recommend?", "could i get something to eat"],
+         "responses": ["We sell to you the best deals for this black Friday", "Mostly tech-products are on the catalogue!"],
+         "context_set": ""
+        },
+        {"tag": "hours",
+         "patterns": ["when are you guys open", "what are your hours", "hours of operation"],
+         "responses": ["We are open 7am-4pm Monday-Friday!"],
+         "context_set": ""
+        },
+         {"tag": "function",
+         "patterns": ["what do you do?", "What are you", "Kazi yako ni?","I need help","I need some assistance"],
+         "responses": ["I am your Pandemic Black Friday Assistant.", "Your Black Friday Binary Best Friend", "I'm Miles aka Web hero."],
+         "context_set": ""
+        },
+          {"tag": "product_1",
+         "patterns": ["1", "Playstation 5", "PS5","ps5","one"],
+         "responses": ["HOT SELLER THIS ONE IS, for 350 dollars", "Latest console with 3 extra gaming pads"],
+         "context_set": ""
+        },
+        {"tag": "product_2",
+         "patterns": ["2", "XBOX", "SERIES S","Microsoft","two"],
+         "responses": ["On the market for 300 dollars mate", "Latest gaming product from Microsoft "],
+         "context_set": ""
+        },
+        {"tag": "product_3",
+         "patterns": ["3", "headphones","three"],
+         "responses": ["Audio Settings Sir!! The Sony Xm4 for 200 dollars", "Make your ears happy with the Sony Xm4 for 200 dollars"],
+         "context_set": ""
+        },
+        {"tag": "product_4",
+         "patterns": ["4", "one plus", "nord","four"],
+         "responses": ["Best flagship killer phone going for 250 dollars", "Cheaper than the tech-fruit for only 250 dollars"],
+         "context_set": ""
+        },
+         {"tag": "items",
+         "patterns": ["what are the tech-products?", "What do you have for me then?", "Uko na?","Nini iko?","What's in store"],
+         "responses": ["1. PLAYSTATION 5   2. XBOX SERIES S    3. HEADPHONE   4. ONEPLUS NORD"],
+         "context_set": ""
+        }
+
+]
+}
